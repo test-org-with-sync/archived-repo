@@ -1,0 +1,11 @@
+{
+    "name": "test-org-with-sync/archived-repo",
+    "description": "Archived package",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.1",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "vlucas/phpdotenv": "^5.0|^6.0"
+    }
+}
