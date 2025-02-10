@@ -1,6 +1,7 @@
 {
     "name": "test-org-with-sync/archived-repo",
     "description": "Archived package",
+    "keywords": ["test"],
     "type": "library",
     "require": {
         "php": "^7.4 || ^8.1",
